@@ -1,0 +1,8 @@
+[{"ID":"1","Name":"铁弓","Type":"0","Level":"2","Icon":"icon_wuqi_tiepigong","Max_ShowCount":"1","Describe":"使用生铁和胶带和麻绳制作而成，近战武器，伤害适中","SynthesisID":"4#5#7","SynthesisCount":"10#10#20"},
+{"ID":"2","Name":"铁刀","Type":"0","Level":"2","Icon":"icon_wuqi_dao","Max_ShowCount":"1","Describe":"使用生铁和木头制作而成，精准度一般，伤害适中","SynthesisID":"4#5","SynthesisCount":"20#10"},
+{"ID":"3","Name":"羽毛箭","Type":"0","Level":"2","Icon":"icon_danyao_tiejian_yumao","Max_ShowCount":"30","Describe":"使用生铁和麻绳和羽毛制作而成，必须搭配弓箭使用","SynthesisID":"4#7#8","SynthesisCount":"10#10#10"},
+{"ID":"4","Name":"生铁","Type":"1","Level":"0","Icon":"icon_cailiao_shengtie","Max_ShowCount":"10","Describe":" ","SynthesisID":"","SynthesisCount":""},
+{"ID":"5","Name":"木头","Type":"1","Level":"0","Icon":"icon_cailiao_mutou","Max_ShowCount":"20","Describe":" ","SynthesisID":"","SynthesisCount":""},
+{"ID":"6","Name":"胶带","Type":"1","Level":"0","Icon":"icon_cailiao_jiaodai","Max_ShowCount":"10","Describe":" ","SynthesisID":"","SynthesisCount":""},
+{"ID":"7","Name":"麻绳","Type":"1","Level":"0","Icon":"icon_cailiao_masheng","Max_ShowCount":"10","Describe":"","SynthesisID":"","SynthesisCount":""},
+{"ID":"8","Name":"羽毛","Type":"1","Level":"0","Icon":"icon_cailiao_yumao","Max_ShowCount":"30","Describe":"","SynthesisID":"","SynthesisCount":""}]
