@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4225523987
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gamedata
+      Dependencies: {}

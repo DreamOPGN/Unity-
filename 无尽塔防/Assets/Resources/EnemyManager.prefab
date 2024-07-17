@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4960137303895182458
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4960137303895182456}
+  - component: {fileID: 4960137303895182459}
+  m_Layer: 0
+  m_Name: EnemyManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4960137303895182456
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4960137303895182458}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 26.920383, y: 3.3189802, z: 3.6023617}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4960137303895182459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4960137303895182458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bda537825887bb4a80022b7bacead7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefab:
+  - {fileID: 8334047354577579108, guid: 4c4a79b066847ab4ba3b43f140554f80, type: 3}
+  - {fileID: 5156329674430729776, guid: a131dcf50f3e9f84da6693fcac5d7b17, type: 3}
+  - {fileID: 3984114790044654789, guid: 3fbfdded9926338418a2920d9ed7e160, type: 3}
+  - {fileID: 7790540183674867224, guid: e58f84cd8577c60429805ebf8a62b047, type: 3}
+  - {fileID: 8137389658053787154, guid: 22d747a81c7b31e41af224cc4c07c518, type: 3}
+  - {fileID: 3289445321104930484, guid: 4c2311ce6dd43524198215d011f31d51, type: 3}
+  - {fileID: 7270087135153357648, guid: dcbbc264da0d4f14c9fa11c3b8997a47, type: 3}
+  - {fileID: 3269823736570721677, guid: ca5320eced7decf4d9acd79a84c13e30, type: 3}
+  - {fileID: 5959498670425607079, guid: d51cf16fdd1cdce469559a9be81439a3, type: 3}
+  - {fileID: 8195151088417836628, guid: 0e35fa50af4ed2649b6c2da6d72f05b3, type: 3}
+  levelId: 1
+  path:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  enemys: []

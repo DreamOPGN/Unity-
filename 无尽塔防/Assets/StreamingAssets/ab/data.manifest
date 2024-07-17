@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1686017959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d1e3e83201b97483e3c3ec6a2693676
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/EnemyData.Json
+- Assets/TowerData.Json
+- Assets/LevelData.Json
+Dependencies: []

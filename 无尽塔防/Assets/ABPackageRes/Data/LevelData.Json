@@ -1,0 +1,11 @@
+[
+{"Level":"1","StartGold":"1000","HomeHP":"50","EnemyCount":"20"},
+{"Level":"2","StartGold":"1000","HomeHP":"40","EnemyCount":"25"},
+{"Level":"3","StartGold":"1000","HomeHP":"30","EnemyCount":"30"},
+{"Level":"4","StartGold":"1000","HomeHP":"30","EnemyCount":"40"},
+{"Level":"5","StartGold":"1500","HomeHP":"20","EnemyCount":"50"},
+{"Level":"6","StartGold":"1500","HomeHP":"20","EnemyCount":"60"},
+{"Level":"7","StartGold":"1500","HomeHP":"20","EnemyCount":"80"},
+{"Level":"8","StartGold":"1500","HomeHP":"20","EnemyCount":"100"},
+{"Level":"9","StartGold":"1800","HomeHP":"20","EnemyCount":"120"}
+]

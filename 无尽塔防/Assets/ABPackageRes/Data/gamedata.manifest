@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1723197499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73a5c44eb26acd46de63c092e6e12395
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABPackageRes/Data/EnemyData.Json
+- Assets/ABPackageRes/Data/LevelData.Json
+- Assets/ABPackageRes/Data/TowerData.Json
+Dependencies: []

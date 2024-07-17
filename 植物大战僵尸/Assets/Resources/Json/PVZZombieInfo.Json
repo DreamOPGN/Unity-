@@ -1,0 +1,20 @@
+[
+    {
+        "ZombieID": "0",
+        "Name": "CommonZombie",
+        "Weight": "4000",
+        "CombatEffectiveness": "1"
+    },
+    {
+        "ZombieID": "1",
+        "Name": "ConeheadZombie",
+        "Weight": "2000",
+        "CombatEffectiveness": "2"
+    },
+    {
+        "ZombieID": "2",
+        "Name": "BucketheadZombie",
+        "Weight": "1000",
+        "CombatEffectiveness": "4"
+    }
+]

@@ -1,0 +1,12 @@
+[
+{"ID":"1","Health":"300","Attack":"5","Speed":"5","Gold":"100"},
+{"ID":"2","Health":"400","Attack":"7","Speed":"5","Gold":"100"},
+{"ID":"3","Health":"401","Attack":"10","Speed":"5","Gold":"100"},
+{"ID":"4","Health":"402","Attack":"13","Speed":"5","Gold":"200"},
+{"ID":"5","Health":"403","Attack":"14","Speed":"5","Gold":"200"},
+{"ID":"6","Health":"404","Attack":"15","Speed":"5","Gold":"200"},
+{"ID":"7","Health":"405","Attack":"16","Speed":"5","Gold":"200"},
+{"ID":"8","Health":"406","Attack":"17","Speed":"5","Gold":"200"},
+{"ID":"9","Health":"407","Attack":"18","Speed":"5","Gold":"300"},
+{"ID":"10","Health":"1000","Attack":"20","Speed":"6","Gold":"300"}
+]
